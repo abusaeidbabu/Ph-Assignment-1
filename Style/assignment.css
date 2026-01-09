@@ -253,3 +253,53 @@
     background-image: url(../assets/CheckCircle.png);
 }
 /* **************************************************************************************solution-done******************* */
+
+
+/* ***************************************************************************************access-start************************ */
+#access{
+    padding: 2px 120px 120px;
+}
+.access-container{
+    padding: 80px 40px;
+    background-color: #F7F6F2;
+    border-radius: 8px;
+}
+.access-info{
+    text-align: center;
+    margin-bottom: 24px;
+}
+.access-info h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 16px;
+}
+.access-info p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #627382;
+}
+.access-button{
+    text-align: center;
+
+}
+.access-button button{
+    padding: 12px 16px;
+    background-color: #469165;
+    border-radius: 4px;
+    color: #FFFFFF;
+    box-shadow: 0 10px 20px #0000001f;
+    border: none;
+    margin-bottom: 16px;
+    cursor: pointer;
+}
+.access-button button:hover{
+    background-color: #FD6E0A;
+    color: #000000;
+}
+.access-button p{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+}
+/* ***************************************************************************************************Access-complite********** */
