@@ -303,3 +303,52 @@
     color: #627382;
 }
 /* ***************************************************************************************************Access-complite********** */
+
+
+/* *********************************************************************************footer-start**************************** */
+#footer{
+    padding: 120px 120px 30px 120px;
+    background-color: #001931;
+}
+.footer-icon{
+    display: flex;
+    max-height: 64px;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+.footer-icon img{
+    margin: 0px;
+}
+.social-icon{
+    margin: 0px;
+    text-align: right;
+}
+.social-icon p{
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+.social-icon img{
+    height: 20px;
+    width: 20px;
+    /* color: #000000; */
+    background-color: #FFFFFF;
+    margin-right: 16px;
+    border-radius:50%;
+    /* margin: 0; */
+    cursor: pointer;
+}
+.social-icon img:hover{
+    background-color: #FD6E0A;
+    color: #F7F6F2;
+}
+.footer-copy-right{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FAFAFA;
+}
+/* ***************************************************************************************footer-comlite************** */
